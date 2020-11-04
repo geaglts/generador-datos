@@ -1,0 +1,16 @@
+{
+  "name": "generador_de_informacion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "react-native-linear-gradient": "^2.5.6"
+  }
+}
